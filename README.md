@@ -42,8 +42,8 @@ const e-pena = {
 [Podcast Channel](https://esteban-pena-podcast.netlify.app/) </br>
 [Agencia de viajes (solo repositorio)](https://github.com/e-pena/Workshop-Encuentro47)
 
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>Trabajemos en un proyecto juntos!</b></em>
-
+# Trabajemos en un proyecto juntos!
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> 
 ---
 
 [![e-pena's github stats](https://github-readme-stats.vercel.app/api?username=e-pena)](https://github.com/e-pena/github-readme-stats)
