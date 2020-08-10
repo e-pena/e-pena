@@ -1,4 +1,6 @@
-<h2> ¡Hola, soy Esteban Pena! <img src="https://media2.giphy.com/media/LRx1ypXGwHydmrehwH/giphy.gif?cid=ecf05e47vdirxq6vyishtq7y5e8verxjusu7hfhcqtb7f0om&rid=giphy.gif" width="50"></h2>
+# ¡Hola, soy Esteban Pena!
+
+---
 <img align='right' src="https://media1.giphy.com/media/WTjXuYA2y4o3UZly3W/giphy.gif?cid=ecf05e47ajydyzhd0e53ny0a7ji9pup9ncgi22a99dvxxync&rid=giphy.gif" width="230">
 <p><em>Desarrollador Web Full Stack</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
