@@ -32,4 +32,8 @@ const e-pena = {
 
 ---
 
+[![e-pena's github stats](https://github-readme-stats.vercel.app/api?username=e-pena)](https://github.com/e-pena/github-readme-stats)
+
+---
+
 From [@Epena](https://github.com/e-pena)
