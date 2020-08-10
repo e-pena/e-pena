@@ -24,8 +24,8 @@ const e-pena = {
 
 <h4> Mis principales proyectos </h4>
 
-[Proyecto Gifos](https://epena-gifos.netlify.app/)
-[Podcast Channel](https://esteban-pena-podcast.netlify.app/)
+[Proyecto Gifos](https://epena-gifos.netlify.app/) </br>
+[Podcast Channel](https://esteban-pena-podcast.netlify.app/) </br>
 [Agencia de viajes (solo repositorio)](https://github.com/e-pena/Workshop-Encuentro47)
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>Trabajemos en un proyecto juntos!</b></em>
